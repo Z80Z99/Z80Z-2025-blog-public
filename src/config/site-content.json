@@ -5,7 +5,7 @@
 		"username": "Momu"
 	},
 	"theme": {
-		"colorBrand": "#2a48f3",
+		"colorBrand": "#820561",
 		"colorPrimary": "#e6e8e8",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#51d0b9",
@@ -15,7 +15,13 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#16007b"
+		"#F27D09",
+		"#31E4E4",
+		"#D1049D",
+		"#D125E1",
+		"#7F3B35",
+		"#A2CCBA",
+		"#39819C"
 	],
 	"artImages": [
 		{
@@ -25,9 +31,13 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "c8cd7af7cf1c5611",
+			"url": "/images/art/c8cd7af7cf1c5611.png"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "c8cd7af7cf1c5611",
 	"backgroundImages": [
 		{
 			"id": "",
